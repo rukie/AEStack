@@ -27,3 +27,5 @@ Note:
 Python environment should include common packages like NumPy, Pandas, Qt, SymPy, SciPy
 
 Perhaps include data visualization tools like PandasGUI
+
+AEStack should build a plugin for Chrono that adds points/joints/etc to FreeCAD.
