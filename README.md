@@ -22,6 +22,8 @@ Post Processor - Paraview
 Also investigate Elmer and FENics. Meshlab?
 
 
+Office Environment - LibreOffice
+
 Note:
 
 Python environment should include common packages like NumPy, Pandas, Qt, SymPy, SciPy
